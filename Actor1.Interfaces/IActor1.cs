@@ -7,7 +7,7 @@ using Microsoft.ServiceFabric.Actors;
 
 namespace Actor1.Interfaces
 {
-    /// <summary>
+    /// <summary> new commit
     /// This interface defines the methods exposed by an actor.
     /// Clients use this interface to interact with the actor that implements it.
     /// </summary>
